@@ -1,4 +1,4 @@
-### Greetings, FOSS friends!
+# Greetings, FOSS friends!
 
 I'm Dan, an open-source programmer interested in distributed systems, networking and instrumentation. I mostly write tools in Go and Rust for Linux systems, with the occasional bash script thrown in for good measure!
 

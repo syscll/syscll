@@ -6,5 +6,3 @@ I currently help maintain the following projects:
 - [oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication via external providers. 
 
 You'll generally find me on the internet as `syscll`, and can read some of my software ramblings at https://syscll.org
-
-![](https://media.giphy.com/media/i79P9wUfnmPyo/giphy.gif)
